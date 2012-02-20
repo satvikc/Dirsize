@@ -1,4 +1,4 @@
-Its a simple python script which uses os.walk to recursively traverse directory and shows size consumed by each subdirectory and at the end shows the total size of the directory.
+Just a python learning exercise . Its a simple python script which uses os.walk to recursively traverse directory and shows size consumed by each subdirectory and at the end shows the total size of the directory.
 Note: It does not follow symbolic links.
 Usage:
 python3 dirsize "full directory path"
